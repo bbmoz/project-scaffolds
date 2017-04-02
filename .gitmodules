@@ -1,0 +1,6 @@
+[submodule "webjs-project-scaffold"]
+	path = webjs-project-scaffold
+	url = https://github.com/bbmoz/webjs-project-scaffold
+[submodule "nodejs-project-scaffold"]
+	path = nodejs-project-scaffold
+	url = https://github.com/bbmoz/nodejs-project-scaffold
