@@ -4,3 +4,6 @@
 [submodule "nodejs-project-scaffold"]
 	path = nodejs-project-scaffold
 	url = https://github.com/bbmoz/nodejs-project-scaffold
+[submodule "tmux-starter"]
+	path = tmux-starter
+	url = https://github.com/bbmoz/tmux-starter
